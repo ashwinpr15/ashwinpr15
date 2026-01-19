@@ -2,7 +2,7 @@
 
 I am a Business Intelligence Developer and Data Analyst with over four years of experience at Tata Consultancy Services (TCS), based in Bengaluru. I focus on turning complex data into clear, actionable insights that support business decision-making for Fortune 500 clients.
 
-- 🔭 I am currently working on **predictive modeling and Azure data pipelines**.
+- 🔭 I am currently working on **Business Intelligence (BI), predictive modeling and Azure data pipelines**.
 - 🌱 I am strengthening my skills in **generative AI and advanced Python**.
 - 🎓 Prospective **MS in Business Analytics** (Fall 2026) candidate.
 
