@@ -23,4 +23,4 @@ I am a **Business Intelligence Developer** and **Data Analyst** with 4+ years of
 * **Key Achievement:** Built ETL pipelines in Azure Data Factory, cutting data processing time by 30%.
 
 ### 📫 Connect with me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ashwin-p-r-556573162)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/prashwin)
