@@ -49,7 +49,7 @@ I am a **Team Lead & Data Scientist** at Tata Consultancy Services (TCS) with 4+
 ---
 
 ### 📝 Recent Projects (Open Source)
-* **[Audio Signal Enhancement DL](https://github.com/ashwin-pillanda/audio-signal-enhancement)**: A denoising autoencoder using TensorFlow/Keras to clean unstructured audio data (+11.7 dB SNR improvement).
+* **[Audio Signal Enhancement DL](https://github.com/ashwinpr15/audio-signal-enhancement)**: A denoising autoencoder using TensorFlow/Keras to clean unstructured audio data (+11.7 dB SNR improvement).
 * **Healthcare Diagnostic Hub**: Predictive modeling for disease diagnosis (Diabetes/Cancer) with 21% accuracy improvement.
 * **Network Security Analytics**: CNN-based intrusion detection system achieving 98% accuracy on NSL-KDD datasets.
 
