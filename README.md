@@ -1,4 +1,4 @@
-# Hi there, I'm Ashwin Pillanda 👋
+# Hi there, I'm Ashwin Pillanda Ravindra👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/prashwin)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-c14438?style=for-the-badge&logo=gmail)](mailto:ashwinpravindra@gmail.com)
@@ -7,7 +7,7 @@
 I am a **Team Lead & Data Scientist** at Tata Consultancy Services (TCS) with 4+ years of experience delivering analytics solutions for Fortune 500 clients (Stellantis, Samsung, Bosch). I specialize in bridging the gap between raw data engineering and high-level business strategy.
 
 * 🔭 Currently building **Predictive Supply Chain Models**, **BI Dashboards** and **Data Pipelines**.
-* 🎯 Aspiring Graduate Student (Fall 2026) focused on the intersection of Business Analytics, AI Strategy, Information Systems, and Business Intelligence.
+* 🎯 Aspiring Graduate Student **(Fall 2026)** focused on the intersection of **Business Analytics**, **AI Strategy**, **Information Systems**, and **Business Intelligence**.
 * 🧠 **GRE Score:** 339 (Q:169 | V:170)
 
 ---
