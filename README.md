@@ -55,15 +55,3 @@ I am a **Team Lead & Data Scientist** at Tata Consultancy Services (TCS) with 4+
 
 ---
 
-""" 
----
-
-### 📈 GitHub Activity & Technical Mix
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwinpr15&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Ashwin's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinpr15&layout=compact&theme=merko&hide_border=true" alt="Top Languages" height="170" />
-</p>
-
-*Note: Stats include contributions to public repositories and represent current development focus.*
-"""
