@@ -6,7 +6,7 @@
 
 I am a **Team Lead & Data Scientist** at Tata Consultancy Services (TCS) with 4+ years of experience delivering analytics solutions for Fortune 500 clients (Stellantis, Samsung, Bosch). I specialize in bridging the gap between raw data engineering and high-level business strategy.
 
-* 🔭 Currently building **Predictive Supply Chain Models** and **Azure Data Pipelines**.
+* 🔭 Currently building **Predictive Supply Chain Models**, **BI Dashboards** and **Data Pipelines**.
 * 🎯 Targeting **MS in Business Analytics (Fall 2026)** to specialize in AI strategy.
 * 🧠 **GRE Score:** 339 (Q:169 | V:170)
 
