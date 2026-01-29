@@ -8,11 +8,12 @@
 
 ## 🚀 What I Do
 
-I build **data systems that ship**—turning messy enterprise data into forecasting models, cloud pipelines, and BI platforms that executives actually trust.
+I build **data systems that ship**, turning messy enterprise data into forecasting models, cloud pipelines, and BI platforms that executives actually trust.
 
 Currently, I lead analytics engineering and data science initiatives at **Tata Consultancy Services (TCS)**, delivering production-grade solutions for Fortune 500 clients including **Stellantis, Samsung, and Bosch**.
 
 **Right now:** Predictive supply chain modeling | Cloud-native data platforms | Preparing for **Fall 2026** graduate programs in **Business Analytics / MIS**
+
 **GRE:** 339/340 (Q:169 | V:170)
 
 ---
