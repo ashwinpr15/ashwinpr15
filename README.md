@@ -82,7 +82,7 @@ Azure ecosystem, Git
 
 ### **[Audio Signal Enhancement via Deep Learning](https://github.com/ashwinpr15/audio-signal-enhancement)**
 
-Built during my IISc internship—a denoising autoencoder (TensorFlow/Keras) to clean unstructured audio for downstream analytics.
+Built during my IISc internship, a denoising autoencoder (TensorFlow/Keras) to clean unstructured audio for downstream analytics.
 
 * **Business value:** Enables higher-quality transcription for customer service, compliance, or accessibility use cases
 * **Technical impact:** +11.7 dB SNR improvement over baseline
@@ -117,7 +117,7 @@ CNN-based intrusion detection system trained on the NSL-KDD dataset to classify 
 
 ## 📬 Let's Connect
 
-Interested in **supply chain analytics**, **cloud data architecture**, or **BI performance optimization**?
+Interested in **Data Science/Analytics**, **cloud data architecture**, or **BI performance optimization**?
 
 💼 [LinkedIn](https://in.linkedin.com/in/prashwin)  
 📧 [ashwinpravindra@gmail.com](mailto:ashwinpravindra@gmail.com)
