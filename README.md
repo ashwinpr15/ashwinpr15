@@ -176,19 +176,7 @@ impact:    30% faster | 99.9% uptime
 
 ### `> ls -la ./projects/`
 
-<div align="center">
 
-<a href="https://github.com/ashwinpr15/audio-signal-enhancement">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinpr15&repo=audio-signal-enhancement&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/ashwinpr15/healthcare-diagnostic-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinpr15&repo=healthcare-diagnostic-hub&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/ashwinpr15/network-security-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwinpr15&repo=network-security-analytics&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=8b949e" />
-</a>
-
-</div>
 
 ```
 drwxr-xr-x  ashwin/projects
