@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:00d4ff,100:0077ff&height=200&section=header&text=ASHWIN%20PILLANDA%20RAVINDRA&fontColor=00ff41&fontSize=36&fontAlignY=40&desc=%3E_%20data_engineer%20%7C%20ml_architect%20%7C%20cloud_systems&descSize=14&descAlignY=62&descColor=00d4ff&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0077ff,100:6e40c9&height=200&section=header&text=ASHWIN%20PILLANDA%20RAVINDRA&fontColor=00d4ff&fontSize=36&fontAlignY=40&desc=%3E_%20bi_developer%20%7C%20data_scientist%20%7C%20systems_architect&descSize=14&descAlignY=62&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%" />
 
 </div>
 
@@ -11,7 +11,7 @@
 ║   > ashwin.pillanda.ravindra                                                   ║
 ║   > data_scientist @ tata_consultancy_services                                 ║
 ║   > shipping production ML for fortune_500 clients                             ║
-║   > GRE: 339/340 (Q:169 | V:170)                                              ║
+║   > GRE: 339/340                                                               ║
 ║                                                                                ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
