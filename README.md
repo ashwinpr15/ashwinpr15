@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0077ff,100:6e40c9&height=200&section=header&text=ASHWIN%20PILLANDA%20RAVINDRA&fontColor=00d4ff&fontSize=36&fontAlignY=40&desc=%3E_%20bi_developer%20%7C%20data_scientist%20%7C%20systems_architect&descSize=14&descAlignY=62&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0077ff,100:6e40c9&height=200&section=header&text=ASHWIN%20PILLANDA%20RAVINDRA&fontColor=00d4ff&fontSize=36&fontAlignY=40&desc=%3E_%20BI_developer%20%7C%20data_scientist%20%7C%20systems_architect&descSize=14&descAlignY=62&descColor=ffffff&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%" />
 
 </div>
 
