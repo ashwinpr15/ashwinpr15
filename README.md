@@ -6,13 +6,13 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                ║
-║   $ whoami                                                                     ║
-║   > ashwin.pillanda.ravindra                                                   ║
-║   > data_scientist @ tata_consultancy_services                                 ║
-║   > shipping production ML for fortune_500 clients                             ║
-║   > GRE: 339/340                                                               ║
-║                                                                                ║
+║                                                                                  ║
+║   $ whoami                                                                       ║
+║   > ashwin.pillanda.ravindra                                                     ║
+║   > data_scientist @ tata_consultancy_services                                   ║
+║   > shipping production ML for fortune_500 clients                               ║
+║   > GRE: 339/340                                                                 ║
+║                                                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -92,7 +92,7 @@ impact:    15–20% forecast accuracy uplift
 
 **`🔄 customer_retention`**
 ```yaml
-client:    KPMG
+client:    Multi-Client
 model:     Decision tree churn predictor
 strategy:  Targeted intervention pipeline
 impact:    20% churn rate reduction
@@ -128,22 +128,22 @@ impact:    30% faster | 99.9% uptime
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  DATA SCIENCE & ML          │  BUSINESS INTELLIGENCE                   │
-│  ─────────────────          │  ──────────────────────                   │
-│  Python ◆ Pandas ◆ NumPy   │  Power BI ◆ Tableau ◆ Qlik              │
-│  Scikit-learn ◆ TensorFlow  │  DAX ◆ Advanced Excel                    │
-│  XGBoost ◆ Random Forest    │                                          │
-│  R                          │                                          │
-├─────────────────────────────┼──────────────────────────────────────────┤
-│  DATA ENGINEERING           │  CLOUD & DEVOPS                          │
-│  ────────────────           │  ─────────────                           │
-│  Azure Data Factory         │  Azure Ecosystem                         │
-│  PySpark ◆ Snowflake        │  Git                                     │
-│  BigQuery ◆ SQL Server      │                                          │
-│  Microsoft Fabric           │                                          │
-│  Azure Synapse Analytics    │                                          │
-└─────────────────────────────┴──────────────────────────────────────────┘
+┌──────────────────────────────┬────────────────────────────────────────┐
+│ DATA SCIENCE & ML            │ BUSINESS INTELLIGENCE                  │
+│ ─────────────────            │ ─────────────────────                  │
+│ Python ◆ Pandas ◆ NumPy      │ Power BI ◆ Tableau ◆ Qlik              │
+│ Scikit-learn ◆ TensorFlow    │ DAX ◆ Advanced Excel                   │
+│ XGBoost ◆ Random Forest      │                                        │
+│ R                            │                                        │
+├──────────────────────────────┼────────────────────────────────────────┤
+│ DATA ENGINEERING             │ CLOUD & DEVOPS                         │
+│ ────────────────             │ ──────────────                         │
+│ Azure Data Factory           │ Azure Ecosystem                        │
+│ PySpark ◆ Snowflake          │ Git                                    │
+│ BigQuery ◆ SQL Server        │                                        │
+│ Microsoft Fabric             │                                        │
+│ Azure Synapse Analytics      │                                        │
+└──────────────────────────────┴────────────────────────────────────────┘
 ```
 
 </div>
