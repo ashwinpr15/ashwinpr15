@@ -1,87 +1,155 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a2a,100:00d2be&height=160&section=header&text=Ashwin%20Pillanda%20Ravindra&fontColor=e2e8f0&fontSize=32&fontAlignY=40&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ff41,50:00d4ff,100:0077ff&height=200&section=header&text=ASHWIN%20PILLANDA%20RAVINDRA&fontColor=00ff41&fontSize=36&fontAlignY=40&desc=%3E_%20data_engineer%20%7C%20ml_architect%20%7C%20cloud_systems&descSize=14&descAlignY=62&descColor=00d4ff&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D2BE&center=true&vCenter=true&width=500&lines=Data+Scientist+%40+TCS;Analytics+Engineer;Shipping+Scalable+ML+Pipelines;Targeting+Fall+2026+MSBA" alt="Typing SVG" /></a>
+</div>
 
-<br/>
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║   $ whoami                                                                     ║
+║   > ashwin.pillanda.ravindra                                                   ║
+║   > data_scientist @ tata_consultancy_services                                 ║
+║   > shipping production ML for fortune_500 clients                             ║
+║   > GRE: 339/340 (Q:169 | V:170)                                              ║
+║                                                                                ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<a href="https://in.linkedin.com/in/prashwin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:ashwinpravindra@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00d2be?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/GRE-339%2F340-e2e8f0?style=for-the-badge&logo=opslevel&logoColor=black" />
-<img src="https://komarev.com/ghpvc/?username=ashwinpr15&style=for-the-badge&color=00d2be&label=profile+views" />
+<div align="center">
+
+<a href="https://in.linkedin.com/in/prashwin"><img src="https://img.shields.io/badge/-%2Fin%2Fprashwin-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ashwinpravindra@gmail.com"><img src="https://img.shields.io/badge/-ashwinpravindra@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/-Bengaluru_IN-333?style=flat-square&logo=googlemaps&logoColor=00ff41" />
+<img src="https://komarev.com/ghpvc/?username=ashwinpr15&style=flat-square&color=00ff41&label=views" />
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### `> cat ./about.md`
 
-I build **data systems that move the needle**—forecasting models, cloud pipelines, and BI platforms shipped into production for Fortune 500 clients. I prefer choosing tools that ship production results at scale over resume decorations.
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">🏢 <b>Current Role</b><br/>Data Scientist @ TCS</td>
-    <td align="center" width="25%">📍 <b>Base</b><br/>Bengaluru, IN</td>
-    <td align="center" width="25%">🎯 <b>Next Mission</b><br/>MSBA / MIS (Fall '26)</td>
-    <td align="center" width="25%">🏆 <b>Track Record</b><br/>6× Star of the Month</td>
-  </tr>
-</table>
+```python
+class Ashwin:
+    """Data Scientist & Analytics Engineer @ TCS"""
+    
+    def __init__(self):
+        self.role       = "Data Scientist & Analytics Engineer"
+        self.company    = "Tata Consultancy Services (TCS)"
+        self.clients    = ["Stellantis NV", "Samsung", "Bosch", "KPMG"]
+        self.location   = "Bengaluru, India"
+        self.gre        = {"total": 339, "quant": 169, "verbal": 170}  # /340
+        
+    def current_mission(self):
+        return {
+            "building":  "Predictive supply chain models on Azure",
+            "designing": "Executive-grade BI dashboards (Power BI + Fabric)",
+            "shipping":  "Scalable ETL with ADF + Snowflake",
+            "next":      "Grad school — Fall 2026 (Analytics / MIS)"
+        }
+    
+    def philosophy(self):
+        return "I choose tools that ship production results at scale — not resume decorations."
+```
 
 ---
 
-### 🚀 Enterprise Impact (2021–2025)
+### `> systemctl status production-impact.service`
 
-<table width="100%">
+```
+● production-impact.service — Enterprise Delivery Pipeline (2021–2025)
+  Status: ██████████████████████████████████ ACTIVE
+  Uptime: 4 years | Clients: Fortune 500 | NDAs: Enforced
+```
+
+<table>
 <tr>
 <td width="50%">
 
-**📦 Supply Chain Optimization**
-- **Client:** Stellantis NV
-- **Stack:** Power BI, Azure SQL
-- **Impact:** ~20% reduction in global logistics overhead
+**`📦 supply_chain_optimization`**
+```yaml
+client:    Stellantis NV
+system:    Real-time Power BI + Azure SQL
+scope:     Global logistics monitoring
+impact:    ~20% reduction in logistics overhead
+```
 
 </td>
 <td width="50%">
 
-**📈 Demand Forecasting**
-- **Client:** Samsung & Bosch
-- **Stack:** Random Forest, XGBoost, Azure
-- **Impact:** 15–20% forecast accuracy uplift for inventory
+**`📈 demand_forecasting`**
+```yaml
+client:    Samsung & Bosch
+models:    Random Forest, Gradient Boosting
+horizon:   4–6 week inventory prediction
+impact:    15–20% forecast accuracy uplift
+```
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🔄 Customer Retention**
-- **Client:** KPMG
-- **Stack:** Decision Trees, Python
-- **Impact:** 20% churn rate reduction via targeted intervention
+**`🔄 customer_retention`**
+```yaml
+client:    KPMG
+model:     Decision tree churn predictor
+strategy:  Targeted intervention pipeline
+impact:    20% churn rate reduction
+```
 
 </td>
 <td width="50%">
 
-**☁️ Cloud Migration & ETL**
-- **Client:** Multi-Client
-- **Stack:** Azure Data Factory, Snowflake
-- **Impact:** 30% faster data delivery with 99.9% uptime
+**`☁️ cloud_migration_etl`**
+```yaml
+client:    Multi-Client
+stack:     Azure Data Factory pipelines
+scope:     Legacy on-prem → cloud migration
+impact:    30% faster | 99.9% uptime
+```
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+```
+🏆 × 6  "Star of the Month" — TCS  |  Delivery Excellence & Client Impact
+```
+
+</div>
+
 ---
 
-### 🛠️ The Workbench
+### `> cat /etc/tech-stack.conf`
 
-<details open>
-<summary><b>Data Science & ML</b></summary>
-<br/>
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  DATA SCIENCE & ML          │  BUSINESS INTELLIGENCE                   │
+│  ─────────────────          │  ──────────────────────                   │
+│  Python ◆ Pandas ◆ NumPy   │  Power BI ◆ Tableau ◆ Qlik              │
+│  Scikit-learn ◆ TensorFlow  │  DAX ◆ Advanced Excel                    │
+│  XGBoost ◆ Random Forest    │                                          │
+│  R                          │                                          │
+├─────────────────────────────┼──────────────────────────────────────────┤
+│  DATA ENGINEERING           │  CLOUD & DEVOPS                          │
+│  ────────────────           │  ─────────────                           │
+│  Azure Data Factory         │  Azure Ecosystem                         │
+│  PySpark ◆ Snowflake        │  Git                                     │
+│  BigQuery ◆ SQL Server      │                                          │
+│  Microsoft Fabric           │                                          │
+│  Azure Synapse Analytics    │                                          │
+└─────────────────────────────┴──────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
@@ -89,69 +157,106 @@ I build **data systems that move the needle**—forecasting models, cloud pipeli
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>Data Engineering & Cloud</b></summary>
-<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Fabric-00BCF2?style=flat-square&logo=microsoftazure&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>Business Intelligence</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Qlik-009848?style=flat-square&logo=qlik&logoColor=white" />
+<img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</details>
-
----
-
-### 📂 Featured Open Source
-
-* **[Autonomous Quadruped Robot](https://github.com/ashwinpr15/Autonomous-Quadruped-Robot-for-Vision-Based-Navigation-and-IoT-Monitoring)**: Built custom Creep Gait locomotion with OpenCV obstacle avoidance and real-time IoT monitoring.
-* **[Audio Signal Enhancement](https://github.com/ashwinpr15/audio-signal-enhancement)**: Developed a denoising autoencoder during an IISc internship, achieving a +11.7 dB SNR improvement.
-* **[Healthcare Diagnostic Hub](https://github.com/ashwinpr15/healthcare-diagnostic-hub)**: Engineered an ensemble ML model for disease risk prediction, boosting accuracy by 21% using SMOTE.
-* **[Network Security Analytics](https://github.com/ashwinpr15/network-security-analytics)**: Trained a CNN for intrusion detection hitting 98% classification accuracy on the NSL-KDD dataset.
-
----
-
-### ⚡ Off the Clock
-
-When I'm not building data pipelines or optimizing models, you'll probably find me:
-- 🏸 Researching the perfect string tension for my Yonex badminton rackets.
-- 🏎️ Hunting down 1:64 scale Bburago Ferrari die-casts.
-- ⌚ Deep diving into the mechanics of automatic watch movements.
-- 📺 Theorizing about the sci-fi lore and alternate dimensions in *Stranger Things*.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashwinpr15&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d2be&icon_color=00d2be&text_color=e2e8f0&ring_color=00d2be&rank_icon=percentile&hide=prs" height="170" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpr15&hide_border=true&background=0d1117&ring=00d2be&fire=00d2be&currStreakLabel=00d2be&sideLabels=64748b&dates=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0" height="170" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinpr15/ashwinpr15/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinpr15/ashwinpr15/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ashwinpr15/ashwinpr15/output/github-snake.svg" width="90%" />
-</picture>
+<img src="https://img.shields.io/badge/Qlik-009848?style=flat-square&logo=qlik&logoColor=white" />
 
 </div>
 
+---
+
+### `> ls -la ./projects/`
+
+
+
+```
+drwxr-xr-x  ashwin/projects
+│
+├── 🔊 audio-signal-enhancement/
+│   ├── desc:    Denoising autoencoder (TensorFlow/Keras) — IISc internship
+│   ├── result:  +11.7 dB SNR improvement over baseline
+│   └── stack:   [TensorFlow, Keras, Librosa]
+│
+├── 🏥 healthcare-diagnostic-hub/
+│   ├── desc:    Ensemble ML for diabetes & cancer risk prediction
+│   ├── result:  +21% accuracy via SMOTE + feature engineering
+│   └── stack:   [Scikit-learn, SMOTE, Explainable AI]
+│
+└── 🛡️ network-security-analytics/
+    ├── desc:    CNN intrusion detection on NSL-KDD dataset
+    ├── result:  98% attack classification accuracy
+    └── stack:   [TensorFlow, Keras]
+```
+
+---
+
+### `> cat ./certifications.log`
+
+```diff
++ [2025]  Microsoft Certified: Fabric Analytics Engineer Associate
++ [2024]  Microsoft Certified: Power BI Data Analyst Associate
++ [2024]  PCEP — Certified Entry-Level Python Programmer
++ [2023]  Microsoft Certified: Power Platform Developer Associate
+```
+
+---
+
+### `> neofetch --github`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2be,50:0a2a2a,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashwinpr15&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00d4ff&text_color=c9d1d9&ring_color=00ff41&rank_icon=percentile" height="175" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinpr15&hide_border=true&background=0d1117&ring=00ff41&fire=00d4ff&currStreakLabel=00ff41&sideLabels=00d4ff&dates=555&currStreakNum=c9d1d9&sideNums=c9d1d9" height="175" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinpr15&hide_border=true&bg_color=0d1117&color=00ff41&line=00d4ff&point=00ff41&area=true&area_color=00ff4115" width="92%" />
+
+</div>
+
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashwinpr15/ashwinpr15/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashwinpr15/ashwinpr15/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ashwinpr15/ashwinpr15/output/github-snake.svg" width="90%" />
+  </picture>
+</div>
+
+---
+
+### `> echo $CONTACT`
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   > Interested in data science, cloud infra, or BI?          │
+│   > Let's build something that ships.                        │
+│                                                              │
+│   💼 linkedin.com/in/prashwin                                │
+│   📧 ashwinpravindra@gmail.com                               │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<a href="https://in.linkedin.com/in/prashwin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:ashwinpravindra@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=120&section=footer" width="100%" />
 
 </div>
