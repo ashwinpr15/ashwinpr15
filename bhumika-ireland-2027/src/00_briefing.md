@@ -1,11 +1,11 @@
 ---
 title: Read Me First — Briefing & Review of the Gemini Draft
-subtitle: Bhumika V S · Ireland 2027 application pack
+subtitle: Bhumika Veerapura Siddagangappa · Ireland 2027 application pack
 ---
 
 # Read Me First — Briefing
 
-<div class="meta">Application pack for Bhumika V S · September 2027 intake · prepared 15 October 2026</div>
+<div class="meta">Application pack for Bhumika Veerapura Siddagangappa · September 2027 intake · prepared 15 October 2026</div>
 
 ## What is in this pack
 
@@ -16,6 +16,11 @@ subtitle: Bhumika V S · Ireland 2027 application pack
 | 03 | Statement of Purpose | Galway primary version + UL / DCU / Trinity swap kit | Ready; fill one optional sentence |
 | 04 | Letters of Recommendation | Three referee drafts in distinct voices + referee briefing sheet | Referees must fill bracketed facts and approve |
 | 05 | Master Timeline | Dated actions from 15 Oct 2026 to arrival, visa pack checklist, risk register | Ready |
+| 06 | IELTS Preparation Plan | Test choice, ₹19,000 fee, 5-week study plan, free and under-₹500 materials, module strategies for a 7.0 | Ready; start this weekend |
+
+## Name on every document
+
+The passport reads **Given name: BHUMIKA · Surname: VEERAPURA SIDDAGANGAPPA**. Every application, the IELTS booking, the loan and the visa must use exactly this name: **Bhumika Veerapura Siddagangappa** (first name *Bhumika*, last name *Veerapura Siddagangappa* on portals). Indian transcripts and employment letters often show initials ("Bhumika V S"). Where they do, attach a notarised "one and the same person" affidavit. All documents in this pack now use the full passport name.
 
 ## The strategy in five lines
 
@@ -57,7 +62,7 @@ The brief asked for *SOX Compliance* as a CV keyword. Bhumika has **not** worked
 3. **MBA specialisation and final-project title:** needed for Letter 2 (and adds one line to the CV).
 4. **Transcript format:** do the B.Com and MBA transcripts show percentages (85% / 77.67% on her old CV) or only CGPA? Galway uses percentage thresholds.
 5. **Referees:** names and official emails for the B.Com professor, MBA guide and Amazon manager.
-6. **IELTS:** already taken? If not, book for early November.
+6. **IELTS:** already taken? If not, follow Deliverable 6: a free diagnostic this weekend, then book for 14–28 November.
 7. **Preference:** accounting/tax (Galway, DCU) or risk/insurance (UL)? The SOP default is accounting analytics.
 
 <div class="sources">Figures were checked against official university, HEA, Irish Immigration and Department of Enterprise pages and 2026 Dublin salary guides as of October 2026. Re-confirm all 2027/28 fees, scholarships and visa rules before paying any money. This pack is planning guidance, not a guarantee of admission, funding, visa or employment.</div>

@@ -5,7 +5,7 @@ subtitle: Primary target — University of Galway, MSc International Accounting 
 
 # Statement of Purpose
 
-<div class="meta">Bhumika V S · Applicant for <span class="swap">[MSc International Accounting and Analytics (Pathway A)]</span> · <span class="swap">[University of Galway]</span> · September 2027 intake<br>Text in <span class="swap">[highlighted brackets]</span> is the slot to swap when re-targeting. Ready-made swap paragraphs for UL and DCU are in the appendix. Body length: about 930 words.</div>
+<div class="meta">Bhumika Veerapura Siddagangappa · Applicant for <span class="swap">[MSc International Accounting and Analytics (Pathway A)]</span> · <span class="swap">[University of Galway]</span> · September 2027 intake<br>Text in <span class="swap">[highlighted brackets]</span> is the slot to swap when re-targeting. Ready-made swap paragraphs for UL and DCU are in the appendix. Body length: about 930 words.</div>
 
 <div class="letter">
 
@@ -27,7 +27,7 @@ After graduating, I plan to use the Stamp 1G permission to build Irish experienc
 
 I bring practical experience of how compliance works, and how it fails, inside two global organisations. I also bring a strong commerce foundation and a clear reason for specialising now. I will contribute that perspective to seminars and group projects, and I am ready for the pace of a one-year programme. I would be grateful for the opportunity to study at the <span class="swap">[University of Galway]</span>.
 
-<p class="sign">Bhumika V S<br>Bengaluru, India</p>
+<p class="sign">Bhumika Veerapura Siddagangappa<br>Bengaluru, India</p>
 
 </div>
 

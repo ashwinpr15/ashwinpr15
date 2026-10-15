@@ -24,9 +24,9 @@ subtitle: Three referee drafts with distinct voices and evaluation angles
 To the Admissions Committee,
 <span class="swap">[MSc International Accounting and Analytics, University of Galway]</span>
 
-**Re: Recommendation for Ms. Bhumika V S**
+**Re: Recommendation for Ms. Bhumika Veerapura Siddagangappa**
 
-I write in strong support of Ms. Bhumika V S's application for postgraduate study. I have taught at Seshadripuram Institute of Commerce and Management for [__] years. I knew Ms. Bhumika throughout her Bachelor of Commerce (2017–2020), during which I taught her [Financial Accounting and Corporate Accounting] and supervised her [internal assessments / class presentations] in [Income Tax / Business Taxation].
+I write in strong support of Ms. Bhumika Veerapura Siddagangappa's application for postgraduate study. I have taught at Seshadripuram Institute of Commerce and Management for [__] years. I knew Ms. Bhumika throughout her Bachelor of Commerce (2017–2020), during which I taught her [Financial Accounting and Corporate Accounting] and supervised her [internal assessments / class presentations] in [Income Tax / Business Taxation].
 
 **Academic performance.** Ms. Bhumika graduated with a CGPA of 8.43 on a 10-point scale, which places her among the strongest students of her batch of approximately [___]. Her record was consistent rather than uneven. She performed especially well in the quantitative core of the programme: Financial Accounting, Management Accounting, Business Finance and Taxation. These subjects demand both accuracy and the ability to follow a transaction through several statements, and she did both reliably.
 
@@ -58,7 +58,7 @@ Yours faithfully,
 
 Dear Members of the Admissions Committee,
 
-I first met Bhumika V S in [the autumn of 2020], when she joined our MBA programme, and I later supervised her final project, [*"Project title — e.g. A study of … at …"*]. I am glad to recommend her. Over two years I watched her move from a capable commerce graduate to a student who could take an unstructured business problem and reason her way to a defensible answer.
+I first met Bhumika Veerapura Siddagangappa in [the autumn of 2020], when she joined our MBA programme, and I later supervised her final project, [*"Project title — e.g. A study of … at …"*]. I am glad to recommend her. Over two years I watched her move from a capable commerce graduate to a student who could take an unstructured business problem and reason her way to a defensible answer.
 
 Her cohort began the MBA during the disruptions of the pandemic, when much of the teaching moved online and students had to organise their own learning more than usual. Bhumika handled this well. In [Operations Research / Quantitative Techniques] she was one of the students who used the formal methods (linear programming, decision analysis, simple forecasting) properly instead of treating them as an exercise. In our case-discussion courses, especially [Strategic Management], she preferred to work out the numbers behind a case before offering an opinion on strategy. I remember her challenging a group conclusion in a [case name] discussion on the grounds that the cost data did not support it. She was right, and she made the point politely.
 
@@ -86,7 +86,7 @@ With kind regards,
 
 To the Admissions Committee,
 
-I am [Full Name], [title] in Amazon's Global Seller Risk & Compliance (GSRC) organisation in Bengaluru. Bhumika V S has worked in my team as a Senior Compliance Associate since July 2024, and I have [directly managed her / overseen her work] for [__ months]. I recommend her strongly for your master's programme.
+I am [Full Name], [title] in Amazon's Global Seller Risk & Compliance (GSRC) organisation in Bengaluru. Bhumika Veerapura Siddagangappa has worked in my team as a Senior Compliance Associate since July 2024, and I have [directly managed her / overseen her work] for [__ months]. I recommend her strongly for your master's programme.
 
 **What she does.** Bhumika audits compliance and quality decisions across seller, product and regulatory-risk workflows. She tests whether a decision is supported by the evidence and consistent with our policies and SOPs, and she identifies where the process itself creates risk.
 
@@ -114,7 +114,7 @@ Sincerely,
 
 | Item | Detail |
 |---|---|
-| Applicant | Bhumika V S · bhumisidda@gmail.com · +91 91484 85773 |
+| Applicant | Bhumika Veerapura Siddagangappa · bhumisidda@gmail.com · +91 91484 85773 |
 | Programmes | University of Galway MSc International Accounting & Analytics · University of Limerick MSc Insurance & Risk Management · DCU MSc International Accounting & Business · (possibly) Trinity MSc Operations & Supply Chain Management |
 | What universities will ask | A short online form plus an uploaded letter: how long and in what capacity you have known her, a comparative rating (e.g. top 5% / 10% / 25%), and a signed letter |
 | Timing | Portal requests will arrive in **November–December 2026**. Please upload within 7 days if possible. |

@@ -22,8 +22,9 @@ subtitle: September 2027 intake · execution starts 15 October 2026
 
 | By | Action | Detail / tactic |
 |---|---|---|
-| 20 Oct | **Book IELTS Academic** (IDP or British Council, Bengaluru) | Test date in the **first half of November**. Target 7.0 overall, no band below 6.5; the minimum is 6.5 / 6.0. Results arrive in 3–5 days (computer-delivered), which leaves a retake slot in December if needed. |
+| 17–19 Oct | **Free diagnostic mock, then book IELTS Academic** (computer-delivered, IDP Bengaluru; IDP is the only provider in India) | Book for **14–21 Nov** if the diagnostic is 6.5+ in every band, otherwise **25–28 Nov**. Target 7.0 overall, no band below 6.5; the minimum is 6.5 / 6.0. Results take 2–5 days. Book in the exact passport name. Full plan in **Deliverable 6**. |
 | 20 Oct | Order documents | Bangalore University (B.Com) and VTU/DSCE (MBA): **official transcripts for all semesters, degree certificates, and a CGPA-to-percentage conversion letter**. Allow 2–4 weeks. |
+| 22 Oct | **Name consistency** | Passport: given name **BHUMIKA**, surname **VEERAPURA SIDDAGANGAPPA**. If transcripts, degree certificates or employment letters show "Bhumika V S" / "Bhumika VS", get a notarised **"one and the same person" affidavit** (name declaration) on stamp paper that lists every variant. Use it for applications, the loan and the visa. Use the passport name on every portal, the IELTS booking and the loan application. |
 | 22 Oct | Get the B.Com syllabus | Extract the Financial Accounting, Management Accounting and Business Finance syllabi, which Galway's Pathway A prerequisite requires. |
 | 25 Oct | **Brief three referees** | Send each one the CV, SOP and their draft letter from Deliverable 4. Confirm their **official email addresses**, because the portals will contact them directly. |
 | 25 Oct | Experience proof | EY relieving/experience letter, Amazon employment verification letter, recent payslips |
@@ -35,7 +36,7 @@ subtitle: September 2027 intake · execution starts 15 October 2026
 
 | By | Action | Detail / tactic |
 |---|---|---|
-| 10 Nov | Sit IELTS | Galway, UL and DCU accept "results pending" submissions, but an application with a score is stronger. |
+| 14–28 Nov | Sit IELTS | Galway, UL and DCU accept "IELTS scheduled" submissions. Upload the score in early December, as soon as it arrives. |
 | 15 Nov | Finalise SOP versions | Galway (primary), UL and DCU swap paragraphs, all from Deliverable 3. Have one external reader proofread. |
 | **20 Nov** | **Submit University of Galway — MSc IAA (Pathway A)** | Rolling admissions, so early submission gets the earliest review and the best position for the 2027/28 Cairnes merit scholarships once announced. Upload the syllabus extract. |
 | **25 Nov** | **Submit University of Limerick — MSc Insurance & Risk Management** | Ask the Kemmy Business School office in writing for the **2027/28 fee**. |
@@ -46,7 +47,7 @@ subtitle: September 2027 intake · execution starts 15 October 2026
 | Dec | Respond fast to queries | Universities may ask for course descriptions or a percentage conversion. Reply within 48 hours. |
 | Dec | Start a **loan pre-assessment** | Talk to two NBFCs and one bank now with her CIBIL score, co-applicant ITRs and the offer timeline, so the sanction is quick once offers arrive. Do not pay any processing fee yet. |
 
-**Budget for Phase 1:** application fees €35–€55 each (₹4–6k each) unless waived · IELTS ≈ ₹18,000 · document fees ≈ ₹5–8k.
+**Budget for Phase 1:** application fees €35–€55 each (₹4–6k each) unless waived · IELTS ₹19,000 + ≈₹1,000 books · document fees ≈ ₹5–8k.
 
 ## Phase 2 — Offers, deposits & GOI-IES (January – March 2027)
 
@@ -80,7 +81,7 @@ subtitle: September 2027 intake · execution starts 15 October 2026
 |---|---|---|
 | 25 May | Complete the **AVATS online application** | Long Stay 'D' — Study. The single-entry visa fee is €60, paid at VFS in INR, plus the VFS service charge. |
 | 25 May – 15 Jun | **VFS Global, Bengaluru**: biometrics and documents | Book the appointment early in the window. |
-| — | **Visa document pack** | ☐ Passport + old passports · ☐ AVATS summary signed · ☐ 2 photos · ☐ **Letter of acceptance** (unconditional) · ☐ **Fee-payment receipt** (≥ €6,000; ideally the full fee) · ☐ **Evidence of €10,000+ access** + loan sanction · ☐ 6-month bank statements · ☐ Sponsor pack (if any) · ☐ IELTS TRF · ☐ Degree certificates and transcripts · ☐ **Cover letter / study plan** (summarise the SOP's "why specialise after an MBA" and the commitment to comply with immigration conditions) · ☐ **Gap explanation** for Oct 2023 – Jul 2024 · ☐ Employment letters (Amazon, EY) · ☐ CV · ☐ Medical insurance · ☐ Fully translated/attested documents where required |
+| — | **Visa document pack** | ☐ Passport + old passports · ☐ AVATS summary signed · ☐ 2 photos · ☐ **Letter of acceptance** (unconditional) · ☐ **Fee-payment receipt** (≥ €6,000; ideally the full fee) · ☐ **Evidence of €10,000+ access** + loan sanction · ☐ 6-month bank statements · ☐ Sponsor pack (if any) · ☐ IELTS TRF · ☐ **Name affidavit** (if any document shows "Bhumika V S") · ☐ Degree certificates and transcripts · ☐ **Cover letter / study plan** (summarise the SOP's "why specialise after an MBA" and the commitment to comply with immigration conditions) · ☐ **Gap explanation** for Oct 2023 – Jul 2024 · ☐ Employment letters (Amazon, EY) · ☐ CV · ☐ Medical insurance · ☐ Fully translated/attested documents where required |
 | Jun | **Book accommodation** | Don't wait for the visa decision; choose a contract with a **visa-refusal cancellation clause**. Galway: Corrib Village, Goldcrest, Westside or Newcastle shared houses. Limerick: UL villages or Castletroy/Dooradoyle rentals. Use Daft.ie and the university's official housing portal **only**, and never send a deposit for a room you have not verified (rental scams are common). |
 | Jun | Resign / notice planning | Work out the Amazon notice period and set a last working day around 31 July. Ask for the experience letter and relieving letter. |
 | Jun | If the visa is refused | Ask for the refusal letter. An **appeal** is possible within **2 months**, so address each stated reason point by point. Check the university's fee-refund terms. |

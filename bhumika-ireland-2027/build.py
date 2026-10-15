@@ -18,16 +18,17 @@ CHROME = os.environ.get("CHROME", "/opt/pw-browsers/chromium-1194/chrome-linux/c
 OUTPUT_NAMES = {
     "00_briefing": "00_Read_Me_First_Briefing.pdf",
     "01_shortlist_financial_model": "01_University_Shortlist_and_Financial_Model.pdf",
-    "02_cv": "02_Bhumika_VS_CV.pdf",
+    "02_cv": "02_Bhumika_Veerapura_Siddagangappa_CV.pdf",
     "03_sop": "03_Statement_of_Purpose_Galway_annotated.pdf",
     "03_sop_clean": "03_Statement_of_Purpose_Galway_SUBMIT.pdf",
     "04_lors": "04_Letters_of_Recommendation.pdf",
     "05_timeline": "05_Admissions_Visa_Funding_Timeline.pdf",
+    "06_ielts_plan": "06_IELTS_Preparation_Plan.pdf",
 }
 
 BASE_CSS = """
 @page { size: A4; margin: 16mm 15mm 16mm 15mm;
-  @bottom-left { content: "Bhumika V S · Ireland 2027 Application Pack"; font: 7.5pt Inter, sans-serif; color: #6b7280; }
+  @bottom-left { content: "Bhumika Veerapura Siddagangappa · Ireland 2027 Application Pack"; font: 7.5pt Inter, sans-serif; color: #6b7280; }
   @bottom-right { content: "Page " counter(page) " of " counter(pages); font: 7.5pt Inter, sans-serif; color: #6b7280; } }
 :root { --ink:#1f2937; --muted:#6b7280; --accent:#0f4c81; --accent-soft:#e8f0f8; --rule:#d1d5db;
   --warn:#9a5b00; --warn-soft:#fff6e5; --swap:#fff3b0; }
@@ -105,7 +106,7 @@ def clean_sop(text: str) -> str:
     text = re.sub(r'<span class="opt">.*?</span>\n*', "", text, flags=re.S)
     text = re.sub(r'<span class="swap">\[(.*?)\]</span>', r"\1", text, flags=re.S)
     text = re.sub(r'<div class="meta"[^>]*>.*?</div>',
-                  '<div class="meta">Bhumika V S · MSc International Accounting and Analytics (Pathway A) · '
+                  '<div class="meta">Bhumika Veerapura Siddagangappa · MSc International Accounting and Analytics (Pathway A) · '
                   'University of Galway · September 2027 intake</div>', text, flags=re.S)
     return text
 

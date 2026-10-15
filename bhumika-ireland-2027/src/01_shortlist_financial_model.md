@@ -1,11 +1,11 @@
 ---
 title: Deliverable 1 — University Shortlist & Financial Model
-subtitle: Bhumika V S · Ireland, Level 9 Master's · September 2027 intake
+subtitle: Bhumika Veerapura Siddagangappa · Ireland, Level 9 Master's · September 2027 intake
 ---
 
 # Deliverable 1 — Strategic University Shortlist & Financial Model
 
-<div class="meta">Prepared 15 October 2026 for Bhumika V S · Planning FX rate ₹110 / €1 (stress-test rate, not a live quote) · All 2027/28 fees must be re-confirmed on the official university page before any deposit or loan application.</div>
+<div class="meta">Prepared 15 October 2026 for Bhumika Veerapura Siddagangappa · Planning FX rate ₹110 / €1 (stress-test rate, not a live quote) · All 2027/28 fees must be re-confirmed on the official university page before any deposit or loan application.</div>
 
 <div class="callout key">
 <strong>Bottom line.</strong> Apply to four specialist programmes, not to "International Business". The best funding fit is <strong>University of Limerick (MSc Insurance &amp; Risk Management)</strong>. The best academic and career fit is <strong>University of Galway (MSc International Accounting &amp; Analytics, Pathway A)</strong>. Galway works at the loan ceiling plus savings, with part-time income or any scholarship covering the remaining gap of roughly €5–7k. <strong>DCU</strong> is a strong programme, but Dublin rent leaves a gap of about €14k. <strong>Trinity</strong> is affordable only with GOI-IES or another large award.
@@ -178,6 +178,7 @@ The loan (₹30 L) plus savings (₹6.5 L) covers the **visa threshold** for eve
 **Post-study cash-flow check (Galway or Limerick, single person, 2026 Irish tax rules, approximate):** A €45,000 salary nets about **€37,000 a year (≈€3,080 a month)** after income tax, USC and PRSI. With a regional single-room budget of about €1,500 a month all-in, the monthly surplus is roughly **€1,500 (≈₹1.65 L)**. That supports a **36-month base-case repayment** with prepayments, and a 24-month payoff only in the upside case. **Plan on 36–60 months and prepay when possible.** Do not build the decision on a 20-month payoff.
 
 **Loan tactics:**
+
 * Get **written** sanction offers from at least three lenders: one public bank (SBI Global Ed-Vantage, which usually needs collateral above ₹7.5 L) and two NBFCs (for example Avanse, HDFC Credila, Auxilo or InCred, which offer unsecured loans with a co-applicant). Compare **effective rate, processing fee, moratorium interest treatment, prepayment penalty and the tuition/living disbursement split**.
 * **Pay simple interest during the course** if family cash flow allows. It rises to about ₹30k a month once a ₹30 L loan is fully disbursed, and paying it avoids about **₹3.8 L** of capitalised interest. Even partial payments help.
 * Loan-financed education remittances from a recognised lender are **exempt from TCS** under current LRS rules. Confirm with the bank at disbursement. Self-funded remittances above ₹10 L attract TCS.
@@ -215,9 +216,9 @@ The loan (₹30 L) plus savings (₹6.5 L) covers the **visa threshold** for eve
 
 **Fee-waiver email script (to each university's India representative):**
 
-> Subject: Fee waiver request — MSc [Programme], September 2027 — Bhumika V S
+> Subject: Fee waiver request — MSc [Programme], September 2027 — Bhumika Veerapura Siddagangappa
 >
-> Dear [Name], I am a Senior Compliance Associate at Amazon (Global Seller Risk & Compliance) with prior experience as a Tax Analyst at EY GDS, and a B.Com (8.43/10) and MBA graduate. I am applying for the MSc [Programme] for September 2027 and would be grateful if an application-fee waiver code is available for Indian applicants. I attended the [Education in Ireland fair / webinar on date]. Kind regards, Bhumika V S · +91 91484 85773
+> Dear [Name], I am a Senior Compliance Associate at Amazon (Global Seller Risk & Compliance) with prior experience as a Tax Analyst at EY GDS, and a B.Com (8.43/10) and MBA graduate. I am applying for the MSc [Programme] for September 2027 and would be grateful if an application-fee waiver code is available for Indian applicants. I attended the [Education in Ireland fair / webinar on date]. Kind regards, Bhumika Veerapura Siddagangappa · +91 91484 85773
 
 ## 7. Document checklist for every application
 
