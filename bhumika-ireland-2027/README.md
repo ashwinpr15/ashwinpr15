@@ -11,6 +11,7 @@ Ready-to-use PDFs are in [`pdf/`](pdf/). Start with `00_Read_Me_First_Briefing.p
 | `03_Statement_of_Purpose_Galway_annotated.pdf` | Same SOP with swap slots highlighted + re-targeting kit for UL, DCU, Trinity |
 | `04_Letters_of_Recommendation.pdf` | Three referee drafts (B.Com professor, MBA guide, Amazon manager) + referee briefing sheet |
 | `05_Admissions_Visa_Funding_Timeline.pdf` | Dated plan from 15 Oct 2026 to arrival, with the visa document checklist and a risk register |
+| `07_One_Page_Roadmap.pdf` | One-page landscape roadmap: phases, deadlines, costs, post-study path |
 | `06_IELTS_Preparation_Plan.pdf` | IELTS Academic plan: fee, dates, 5-week schedule, free and under-₹500 materials |
 
 ## Editing

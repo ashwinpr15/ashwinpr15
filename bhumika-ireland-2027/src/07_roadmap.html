@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ireland 2027 Roadmap</title>
+<style>
+@page { size: A4 landscape; margin: 0; }
+:root { --ink:#16202e; --muted:#5b6676; --navy:#0f3d68; --teal:#0f766e; --gold:#b7791f; --rose:#b4234a;
+  --p0:#475569; --p1:#0f4c81; --p2:#6d28d9; --p3:#0f766e; --p4:#b45309; --p5:#be123c; --line:#e3e8ef; --bg:#f6f8fb; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: 297mm; height: 210mm; background: #fff; }
+body { font-family: Inter, "DejaVu Sans", sans-serif; color: var(--ink); font-size: 8pt; line-height: 1.38;
+  -webkit-print-color-adjust: exact; print-color-adjust: exact; padding: 9mm 10mm 7mm; display: flex; flex-direction: column; gap: 4.5mm; overflow: hidden; }
+header { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 2pt solid var(--navy); padding-bottom: 3mm; }
+.kicker { font-size: 7pt; letter-spacing: 1.6pt; text-transform: uppercase; color: var(--teal); font-weight: 700; }
+h1 { font-size: 20pt; font-weight: 800; color: var(--navy); letter-spacing: -0.3pt; line-height: 1.1; }
+h1 span { color: var(--teal); }
+.who { font-size: 8pt; color: var(--muted); margin-top: 1mm; }
+.stats { display: flex; gap: 2.5mm; }
+.stat { background: var(--bg); border: 0.6pt solid var(--line); border-radius: 2.5mm; padding: 2mm 3mm; min-width: 27mm; }
+.stat b { display: block; font-size: 12pt; color: var(--navy); font-weight: 800; line-height: 1.15; }
+.stat small { color: var(--muted); font-size: 6.6pt; }
+
+/* timeline */
+.track { position: relative; display: grid; grid-template-columns: repeat(6, 1fr); gap: 2.6mm; }
+.track::before { content: ""; position: absolute; left: 4mm; right: 4mm; top: 6.2mm; height: 1.4mm; border-radius: 1mm;
+  background: linear-gradient(90deg, var(--p0), var(--p1), var(--p2), var(--p3), var(--p4), var(--p5)); }
+.phase { position: relative; padding-top: 12mm; }
+.dot { position: absolute; top: 3.4mm; left: 50%; transform: translateX(-50%); width: 7mm; height: 7mm; border-radius: 50%;
+  background: #fff; border: 1.6pt solid var(--c); color: var(--c); font-weight: 800; font-size: 8pt; display: grid; place-items: center; }
+.card { border: 0.7pt solid var(--line); border-top: 2.2pt solid var(--c); border-radius: 2mm; padding: 2.4mm 2.6mm; height: 100%; background: #fff; }
+.when { font-size: 6.6pt; font-weight: 700; letter-spacing: 0.8pt; text-transform: uppercase; color: var(--c); }
+.card h3 { font-size: 9.2pt; font-weight: 800; margin: 0.6mm 0 1.4mm; color: var(--ink); }
+.card ul { list-style: none; }
+.card li { padding-left: 3mm; position: relative; margin-bottom: 1mm; }
+.card li::before { content: ""; position: absolute; left: 0; top: 1.5mm; width: 1.3mm; height: 1.3mm; border-radius: 50%; background: var(--c); }
+.done { margin-top: 1.6mm; padding-top: 1.4mm; border-top: 0.6pt dashed var(--line); font-size: 6.8pt; color: var(--muted); }
+.done b { color: var(--c); }
+.flag { display: inline-block; background: var(--c); color: #fff; font-weight: 700; font-size: 6.4pt; padding: 0.3mm 1.4mm; border-radius: 1mm; }
+
+/* bottom */
+.bottom { display: grid; grid-template-columns: 1.25fr 1fr 1fr; gap: 3.5mm; flex: 1; min-height: 0; }
+.panel { background: var(--bg); border-radius: 2.5mm; padding: 3mm 3.4mm; border: 0.6pt solid var(--line); }
+.panel h2 { font-size: 8.4pt; text-transform: uppercase; letter-spacing: 1pt; color: var(--navy); margin-bottom: 2mm; font-weight: 800; }
+table { width: 100%; border-collapse: collapse; font-size: 7.7pt; }
+th { white-space: nowrap; }
+.bar span { white-space: nowrap; }
+.bottom .panel { font-size: 8.2pt; }
+.bars { gap: 3mm !important; }
+.steps { gap: 2.4mm !important; }
+td, th { padding: 1.1mm 1.2mm; text-align: left; border-bottom: 0.5pt solid var(--line); vertical-align: top; }
+th { font-size: 6.3pt; text-transform: uppercase; letter-spacing: 0.5pt; color: var(--muted); font-weight: 700; }
+tr:last-child td { border-bottom: none; }
+.tag { font-size: 6.2pt; font-weight: 700; padding: 0.3mm 1.2mm; border-radius: 1mm; color: #fff; white-space: nowrap; }
+.ok { background: var(--teal); } .mid { background: var(--gold); } .no { background: var(--rose); }
+.bars { display: flex; flex-direction: column; gap: 1.7mm; }
+.bar { display: grid; grid-template-columns: 15mm 1fr 19mm; align-items: center; gap: 1.5mm; font-size: 7pt; }
+.rail { position: relative; height: 3.2mm; background: #fff; border: 0.5pt solid var(--line); border-radius: 1mm; }
+.fill { position: absolute; left: 0; top: 0; bottom: 0; border-radius: 1mm; }
+.fund { position: absolute; top: -1mm; bottom: -1mm; width: 0.8pt; background: var(--ink); }
+.note { font-size: 6.6pt; color: var(--muted); margin-top: 1.8mm; }
+.steps { display: flex; flex-direction: column; gap: 1.6mm; }
+.step { display: grid; grid-template-columns: 17mm 1fr; gap: 2mm; }
+.step b { color: var(--teal); font-size: 7.2pt; }
+footer { display: flex; justify-content: space-between; font-size: 6.4pt; color: var(--muted); }
+</style></head>
+<body>
+
+<header>
+  <div>
+    <div class="kicker">Master's in Ireland · September 2027 intake</div>
+    <h1>The Roadmap <span>to Ireland 2027</span></h1>
+    <div class="who">Bhumika Veerapura Siddagangappa · B.Com 8.43 · MBA 7.82 · EY Tax Analyst → Amazon Senior Compliance Associate</div>
+  </div>
+  <div class="stats">
+    <div class="stat"><b>Galway</b><small>#1 fit · MSc Intl Accounting &amp; Analytics</small></div>
+    <div class="stat"><b>IELTS 7.0</b><small>no band &lt; 6.5 · test by 28 Nov</small></div>
+    <div class="stat"><b>₹36.5 L</b><small>loan ₹30 L + savings ~₹6.5 L</small></div>
+    <div class="stat"><b>24 months</b><small>Stamp 1G post-study work</small></div>
+  </div>
+</header>
+
+<section class="track">
+  <div class="phase" style="--c:var(--p0)"><div class="dot">0</div><div class="card">
+    <div class="when">Now – 31 Oct 2026</div><h3>Launch</h3>
+    <ul><li>Free IELTS mock (17–18 Oct), then book the test</li><li>Order transcripts + CGPA→% letter</li><li>Name affidavit (V S → full name)</li><li>Brief 3 referees</li><li>Confirm savings with family</li></ul>
+    <div class="done"><b>Done when:</b> IELTS booked, documents ordered</div></div></div>
+
+  <div class="phase" style="--c:var(--p1)"><div class="dot">1</div><div class="card">
+    <div class="when">Nov – Dec 2026</div><h3>Apply</h3>
+    <ul><li><span class="flag">20 Nov</span> Galway MSc IAA</li><li><span class="flag">25 Nov</span> UL Insurance &amp; Risk</li><li><span class="flag">30 Nov</span> DCU Intl Accounting</li><li>IELTS 14–28 Nov → upload score</li><li>Ask for fee-waiver codes</li></ul>
+    <div class="done"><b>Done when:</b> all applications in by 15 Dec</div></div></div>
+
+  <div class="phase" style="--c:var(--p2)"><div class="dot">2</div><div class="card">
+    <div class="when">Jan – Mar 2027</div><h3>Offers &amp; scholarships</h3>
+    <ul><li>Compare offers + 2027/28 fees</li><li>Pay <b>one</b> deposit (€500–1.5k)</li><li>GOI-IES opens ~late Jan; apply by <b>~12 Mar</b></li><li>Galway/DCU merit awards</li><li>Apply for student housing</li></ul>
+    <div class="done"><b>Done when:</b> unconditional offer accepted</div></div></div>
+
+  <div class="phase" style="--c:var(--p3)"><div class="dot">3</div><div class="card">
+    <div class="when">Mar – May 2027</div><h3>Fund it</h3>
+    <ul><li>Loan applications to 2–3 lenders</li><li>Compare written sanction offers</li><li>Pay tuition (≥ €6,000; ideally all)</li><li>€10,000+ living-cost proof</li><li>Medical insurance</li></ul>
+    <div class="done"><b>Done when:</b> fee receipt + funds pack ready</div></div></div>
+
+  <div class="phase" style="--c:var(--p4)"><div class="dot">4</div><div class="card">
+    <div class="when">25 May – Jul 2027</div><h3>Visa &amp; housing</h3>
+    <ul><li>AVATS + VFS Bengaluru <b>25 May – 15 Jun</b></li><li>~8-week decision</li><li>Book a room (with a visa-refusal clause)</li><li>Resign ~31 Jul; collect letters</li><li>Flights after the visa arrives</li></ul>
+    <div class="done"><b>Done when:</b> visa in passport, lease signed</div></div></div>
+
+  <div class="phase" style="--c:var(--p5)"><div class="dot">5</div><div class="card">
+    <div class="when">Aug 2027 →</div><h3>Arrive &amp; launch career</h3>
+    <ul><li>Fly ~25 Aug; orientation</li><li>IRP card, bank, PPSN</li><li>Big 4 / Tech EMEA graduate applications in Sept–Oct</li><li>Part-time work 10–15 hrs/week</li></ul>
+    <div class="done"><b>Done when:</b> Stamp 1G → €40–55k role</div></div></div>
+</section>
+
+<section class="bottom">
+  <div class="panel">
+    <h2>University portfolio</h2>
+    <table>
+      <tr><th>Programme</th><th>Tuition</th><th>Living / yr</th><th>All-in</th><th>Verdict</th></tr>
+      <tr><td><b>Galway</b> · MSc Intl Accounting &amp; Analytics</td><td>€20,890</td><td>€15–19k</td><td>₹44 L</td><td><span class="tag ok">Core 1 · best fit</span></td></tr>
+      <tr><td><b>UL</b> · MSc Insurance &amp; Risk Mgmt</td><td>≈€18,400</td><td>€13–18k</td><td>₹40 L</td><td><span class="tag ok">Core 2 · safest</span></td></tr>
+      <tr><td><b>DCU</b> · MSc Intl Accounting &amp; Business</td><td>€23,000 (−€2k award)</td><td>€21–27k</td><td>₹52 L</td><td><span class="tag mid">Core 3 · Dublin</span></td></tr>
+      <tr><td><b>Trinity</b> · MSc Operations &amp; Supply Chain</td><td>€24,600</td><td>€21–27k</td><td>₹56 L+</td><td><span class="tag no">Reach</span></td></tr>
+    </table>
+    <div class="note">All-in = tuition + mid-range living + €2.5k one-off costs, at ₹110/€. No scholarship assumed. Recheck the 2027/28 fees.</div>
+  </div>
+
+  <div class="panel">
+    <h2>Can we afford it?</h2>
+    <div class="bars">
+      <div class="bar"><b>UL</b><div class="rail"><div class="fill" style="width:71%;background:var(--teal)"></div><div class="fund" style="left:65%"></div></div><span>gap ₹3.5 L</span></div>
+      <div class="bar"><b>Galway</b><div class="rail"><div class="fill" style="width:79%;background:var(--gold)"></div><div class="fund" style="left:65%"></div></div><span>gap ₹7.9 L</span></div>
+      <div class="bar"><b>DCU</b><div class="rail"><div class="fill" style="width:93%;background:var(--rose)"></div><div class="fund" style="left:65%"></div></div><span>gap ₹15.8 L</span></div>
+      <div class="bar"><b>Trinity</b><div class="rail"><div class="fill" style="width:100%;background:var(--rose)"></div><div class="fund" style="left:65%"></div></div><span>gap ₹19.8 L</span></div>
+    </div>
+    <div class="note">The black line is committed funds (₹36.5 L). Part-time work (~₹8 L gross) is a buffer, not the plan.<br><b>Rule:</b> choose Galway with any scholarship or ₹4 L+ extra; otherwise UL. Dublin only with GOI-IES.</div>
+  </div>
+
+  <div class="panel">
+    <h2>After graduation</h2>
+    <div class="steps">
+      <div class="step"><b>Sept 2028</b><span>Results → <b>Stamp 1G</b>: 24 months of full-time work rights</span></div>
+      <div class="step"><b>Target roles</b><span>Tax Analyst €45–55k · Risk Analyst €40–60k · Regulatory Reporting €40–52k</span></div>
+      <div class="step"><b>Stay on</b><span>Critical Skills permit €40,904 (€36,848 for a recent graduate) or General permit €36,605</span></div>
+      <div class="step"><b>Loan</b><span>Plan for 36–60 months and prepay; a 24-month payoff is the upside case</span></div>
+      <div class="step"><b>5-year goal</b><span>Senior Compliance &amp; Risk Manager + ACCA / CAI / CII qualification</span></div>
+    </div>
+  </div>
+</section>
+
+<footer><span>Ireland 2027 Application Pack · Deliverables 00–06 hold the detail</span><span>Planning guide, 15 Oct 2026 · confirm fees, scholarships and visa rules before paying</span></footer>
+</body></html>

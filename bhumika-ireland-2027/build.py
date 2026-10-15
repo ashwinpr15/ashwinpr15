@@ -24,6 +24,7 @@ OUTPUT_NAMES = {
     "04_lors": "04_Letters_of_Recommendation.pdf",
     "05_timeline": "05_Admissions_Visa_Funding_Timeline.pdf",
     "06_ielts_plan": "06_IELTS_Preparation_Plan.pdf",
+    "07_roadmap": "07_One_Page_Roadmap.pdf",
 }
 
 BASE_CSS = """
@@ -119,19 +120,26 @@ def sources():
             yield "03_sop_clean", meta, clean_sop(text)
 
 
+def print_pdf(html_path: Path, stem: str):
+    pdf_path = OUT / OUTPUT_NAMES.get(stem, f"{stem}.pdf")
+    subprocess.run([CHROME, "--headless", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",
+                    f"--print-to-pdf={pdf_path}", html_path.as_uri()],
+                   check=True, capture_output=True)
+    print(f"built {pdf_path.relative_to(ROOT)}")
+
+
 def build():
     OUT.mkdir(exist_ok=True)
     HTML.mkdir(exist_ok=True)
+    # hand-designed single pages are authored directly in HTML
+    for page in sorted(SRC.glob("*.html")):
+        print_pdf(page, page.stem)
     for stem, meta, text in sources():
         body = markdown.markdown(text, extensions=["tables", "md_in_html", "attr_list", "sane_lists"])
         css = BASE_CSS + (CV_CSS if meta.get("layout") == "cv" else "")
         html_path = HTML / f"{stem}.html"
         html_path.write_text(TEMPLATE.replace("{title}", meta.get("title", stem)).replace("{css}", css).replace("{body}", body), encoding="utf-8")
-        pdf_path = OUT / OUTPUT_NAMES.get(stem, f"{stem}.pdf")
-        subprocess.run([CHROME, "--headless", "--no-sandbox", "--disable-gpu", "--no-pdf-header-footer",
-                        f"--print-to-pdf={pdf_path}", html_path.as_uri()],
-                       check=True, capture_output=True)
-        print(f"built {pdf_path.relative_to(ROOT)}")
+        print_pdf(html_path, stem)
 
 
 if __name__ == "__main__":
