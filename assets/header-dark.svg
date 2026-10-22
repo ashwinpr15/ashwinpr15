@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Ashwin Pillanda Ravindra: Electronics and CS engineer, BI Developer with 5 years at TCS, MSBA student at BU Questrom">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Ashwin Pillanda Ravindra: Electronics and CS engineer, BI Developer at TCS, MSBA student at BU Questrom">
 <style>@media (prefers-reduced-motion: reduce) { .anim { display: none; } }</style>
 <rect x="1" y="1" width="1278" height="338" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
 <defs><pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.4" fill="#21262d"/></pattern></defs><rect x="2" y="2" width="1276" height="336" rx="16" fill="url(#dots)"/>
@@ -7,9 +7,9 @@
 <text x="64" y="198" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#8b949e">Business Intelligence · Analytics · Data Integration</text>
 <rect x="64" y="244" width="232" height="40" rx="20.0" fill="#161b22" stroke="#a78bfa" stroke-opacity="0.65" stroke-width="1.5"/><text x="180" y="270" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">Electronics &amp; CS Engineer</text>
 <path d="M306.0,264 h16 m-6,-6 l6,6 l-6,6" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="332.0" y="244" width="233" height="40" rx="20.0" fill="#161b22" stroke="#00d2be" stroke-opacity="0.65" stroke-width="1.5"/><text x="449" y="270" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">BI Developer · 5 yrs @ TCS</text>
-<path d="M575.12,264 h16 m-6,-6 l6,6 l-6,6" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="601.12" y="244" width="180" height="40" rx="20.0" fill="#161b22" stroke="#ff8a5c" stroke-opacity="0.65" stroke-width="1.5"/><text x="691" y="270" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">MSBA @ BU Questrom</text>
+<rect x="332.0" y="244" width="176" height="40" rx="20.0" fill="#161b22" stroke="#00d2be" stroke-opacity="0.65" stroke-width="1.5"/><text x="420" y="270" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">BI Developer @ TCS</text>
+<path d="M518.16,264 h16 m-6,-6 l6,6 l-6,6" fill="none" stroke="#8b949e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="544.16" y="244" width="180" height="40" rx="20.0" fill="#161b22" stroke="#ff8a5c" stroke-opacity="0.65" stroke-width="1.5"/><text x="634" y="270" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#e6edf3">MSBA @ BU Questrom</text>
 <g transform="translate(-109.2,-15.0) scale(1.1)"><path d="M872,104 H900 V150 H944" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linejoin="round" opacity="0.85"/>
 <circle cx="872" cy="104" r="5" fill="#0d1117" stroke="#a78bfa" stroke-width="2.5"/>
 <path d="M872,170 H944" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linejoin="round" opacity="0.85"/>

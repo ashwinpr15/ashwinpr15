@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Ashwin Pillanda Ravindra: Electronics and CS engineer, Business Intelligence Developer with 5 years at TCS, MSBA student at BU Questrom" width="100%">
+  <img src="assets/header-light.svg" alt="Ashwin Pillanda Ravindra: Electronics and CS engineer, Business Intelligence Developer at TCS, MSBA student at BU Questrom" width="100%">
 </picture>
 
 <p align="center">
@@ -10,18 +10,18 @@
   <a href="https://ashwinpr15.github.io/assets/Ashwin-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg"><img src="assets/btn-resume-light.svg" alt="Resume" height="46"></picture></a>
 </p>
 
-I started out wiring circuits and writing C++ as an **Electronics & Communication Engineering (with CS)** student, then spent about **five years at Tata Consultancy Services as a Business Intelligence Developer**, turning enterprise data into Power BI and QlikView reporting for global clients. I'm now an **MSBA student at Boston University's Questrom School of Business** in Boston, adding statistics and business analytics on top of that engineering and BI base.
+I started out wiring circuits and writing C++ as an **Electronics & Communication Engineering (with CS)** student, then worked as a **Business Intelligence Developer at Tata Consultancy Services**, building Power BI and QlikView dashboards, PowerApps and the SQL and Snowflake data models behind them for global clients. One report I automated saves Stellantis about **₹70 lakh a year** in manual work. I'm now an **MSBA student at Boston University's Questrom School of Business** in Boston, adding statistics and business analytics on top of that engineering and BI base.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
-  <img src="assets/impact-light.svg" alt="About 5 years of enterprise BI at TCS; 6+ QlikView to Power BI migrations; 3 global enterprise clients; GRE 330+" width="100%">
+  <img src="assets/impact-light.svg" alt="10+ dashboards and reports built in Power BI, QlikView and PowerApps; about 70 lakh rupees a year saved on a Stellantis fleet sales report; SQL data models and pipelines on Snowflake, ADF and Airflow; GRE 330+" width="100%">
 </picture>
 
 ## Journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg">
-  <img src="assets/journey-light.svg" alt="Timeline: BE in Electronics and CS (graduated 2021); Business Intelligence Developer at TCS (Aug 2021 to Aug 2026): 6+ QlikView to Power BI migrations, data modeling, SQL, Snowflake, Azure Data Factory, Python and Airflow for Stellantis, Samsung and Bosch; MSBA at BU Questrom (Sep 2026 to present)" width="100%">
+  <img src="assets/journey-light.svg" alt="Timeline: BE in Electronics and CS (graduated 2021); Business Intelligence Developer at TCS (Aug 2021 to Aug 2026): 10+ Power BI and QlikView dashboards, PowerApps for data entry and approvals, Snowflake, SQL, Azure Data Factory and Airflow, and about 70 lakh rupees a year saved on a Stellantis report; MSBA at BU Questrom (Sep 2026 to present)" width="100%">
 </picture>
 
 ## Toolkit
