@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="430" viewBox="0 0 1280 430" role="img" aria-label="Career timeline: BE Electronics and CS (2021), Business Intelligence Developer at TCS (2021-2026), MSBA at BU Questrom (2026-present)">
+<style>@media (prefers-reduced-motion: reduce) { .anim { display: none; } }</style>
+<defs><linearGradient id="tl" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#00897b"/><stop offset="1" stop-color="#d9480f"/></linearGradient></defs>
+<rect x="40" y="46" width="1200" height="4" rx="2" fill="url(#tl)" opacity="0.9"/>
+<circle class="anim" cx="226.0" cy="48" r="26" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0"><animate attributeName="r" values="26;38" dur="2.6s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="226.0" cy="48" r="26" fill="#ffffff" stroke="#7c3aed" stroke-width="3"/>
+<rect x="215.0" y="37" width="22" height="22" rx="4" fill="none" stroke="#7c3aed" stroke-width="2.4"/><line x1="221.0" y1="32" x2="221.0" y2="37" stroke="#7c3aed" stroke-width="2.4"/><line x1="221.0" y1="59" x2="221.0" y2="64" stroke="#7c3aed" stroke-width="2.4"/><line x1="210.0" y1="43" x2="215.0" y2="43" stroke="#7c3aed" stroke-width="2.4"/><line x1="237.0" y1="43" x2="242.0" y2="43" stroke="#7c3aed" stroke-width="2.4"/><line x1="231.0" y1="32" x2="231.0" y2="37" stroke="#7c3aed" stroke-width="2.4"/><line x1="231.0" y1="59" x2="231.0" y2="64" stroke="#7c3aed" stroke-width="2.4"/><line x1="210.0" y1="53" x2="215.0" y2="53" stroke="#7c3aed" stroke-width="2.4"/><line x1="237.0" y1="53" x2="242.0" y2="53" stroke="#7c3aed" stroke-width="2.4"/>
+<line x1="226.0" y1="74" x2="226.0" y2="96" stroke="#7c3aed" stroke-width="2" stroke-dasharray="3 4"/>
+<rect x="31.0" y="96" width="390" height="332" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="31.0" y="96" width="390" height="6" rx="3" fill="#7c3aed"/>
+<text x="56.0" y="138" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="13.5" letter-spacing="1.2" fill="#7c3aed">ENGINEERING · GRADUATED 2021</text>
+<text x="56.0" y="174" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0f172a">BE, Electronics &amp; CS</text>
+<text x="56.0" y="202" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#57606a">SDM Institute of Technology · VTU</text>
+<line x1="56.0" y1="222" x2="396.0" y2="222" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="56.0" y="246" width="8" height="8" rx="2" fill="#7c3aed"/>
+<text x="76.0" y="255" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Quadruped robot capstone</text>
+<rect x="56.0" y="284" width="8" height="8" rx="2" fill="#7c3aed"/>
+<text x="76.0" y="293" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Raspberry Pi · OpenCV · 12 servos</text>
+<rect x="56.0" y="322" width="8" height="8" rx="2" fill="#7c3aed"/>
+<text x="76.0" y="331" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">DSP · data structures in C++</text>
+<circle class="anim" cx="640.0" cy="48" r="26" fill="none" stroke="#00897b" stroke-width="2" opacity="0"><animate attributeName="r" values="26;38" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></circle>
+<circle cx="640.0" cy="48" r="26" fill="#ffffff" stroke="#00897b" stroke-width="3"/>
+<rect x="628.0" y="49" width="6" height="9" rx="1.5" fill="#00897b"/><rect x="637.0" y="43" width="6" height="15" rx="1.5" fill="#00897b"/><rect x="646.0" y="37" width="6" height="21" rx="1.5" fill="#00897b"/>
+<line x1="640.0" y1="74" x2="640.0" y2="96" stroke="#00897b" stroke-width="2" stroke-dasharray="3 4"/>
+<rect x="445.0" y="96" width="390" height="332" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="445.0" y="96" width="390" height="6" rx="3" fill="#00897b"/>
+<text x="470.0" y="138" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="13.5" letter-spacing="1.2" fill="#00897b">TCS · AUG 2021 – AUG 2026</text>
+<text x="470.0" y="174" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0f172a">Business Intelligence Developer</text>
+<text x="470.0" y="202" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#57606a">Tata Consultancy Services · ~5 years</text>
+<line x1="470.0" y1="222" x2="810.0" y2="222" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="470.0" y="246" width="8" height="8" rx="2" fill="#00897b"/>
+<text x="490.0" y="255" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">6+ QlikView → Power BI migrations</text>
+<rect x="470.0" y="284" width="8" height="8" rx="2" fill="#00897b"/>
+<text x="490.0" y="293" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Data modeling · SQL · Snowflake</text>
+<rect x="470.0" y="322" width="8" height="8" rx="2" fill="#00897b"/>
+<text x="490.0" y="331" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Azure Data Factory · Python · Airflow</text>
+<rect x="470.0" y="360" width="8" height="8" rx="2" fill="#00897b"/>
+<text x="490.0" y="369" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Stellantis · Samsung · Bosch</text>
+<circle class="anim" cx="1054.0" cy="48" r="26" fill="none" stroke="#d9480f" stroke-width="2" opacity="0"><animate attributeName="r" values="26;38" dur="2.6s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.6s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="1054.0" cy="48" r="26" fill="#ffffff" stroke="#d9480f" stroke-width="3"/>
+<path d="M1038.0,45 L1054.0,37 L1070.0,45 L1054.0,53 Z" fill="#d9480f"/><path d="M1045.0,49 v7 q9,6 18,0 v-7" fill="none" stroke="#d9480f" stroke-width="2.4"/><line x1="1070.0" y1="45" x2="1070.0" y2="57" stroke="#d9480f" stroke-width="2"/>
+<line x1="1054.0" y1="74" x2="1054.0" y2="96" stroke="#d9480f" stroke-width="2" stroke-dasharray="3 4"/>
+<rect x="859.0" y="96" width="390" height="332" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="859.0" y="96" width="390" height="6" rx="3" fill="#d9480f"/>
+<text x="884.0" y="138" font-family="ui-monospace, SFMono-Regular, 'Cascadia Code', Consolas, 'Liberation Mono', monospace" font-size="13.5" letter-spacing="1.2" fill="#d9480f">BU QUESTROM · SEP 2026 – NOW</text>
+<text x="884.0" y="174" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="23" font-weight="700" fill="#0f172a">MSBA, Business Analytics</text>
+<text x="884.0" y="202" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#57606a">Boston University · 16-month track</text>
+<line x1="884.0" y1="222" x2="1224.0" y2="222" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="884.0" y="246" width="8" height="8" rx="2" fill="#d9480f"/>
+<text x="904.0" y="255" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Statistics &amp; business analytics</text>
+<rect x="884.0" y="284" width="8" height="8" rx="2" fill="#d9480f"/>
+<text x="904.0" y="293" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">F1 cost-cap team analysis</text>
+<rect x="884.0" y="322" width="8" height="8" rx="2" fill="#d9480f"/>
+<text x="904.0" y="331" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#0f172a">Team lead for two course teams</text>
+</svg>

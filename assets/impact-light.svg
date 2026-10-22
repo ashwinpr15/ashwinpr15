@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="176" viewBox="0 0 1280 176" role="img" aria-label="About 5 years of enterprise BI at TCS; 6+ QlikView to Power BI migrations; 3 global clients; GRE 330+">
+<style>@media (prefers-reduced-motion: reduce) { .anim { display: none; } }</style>
+<rect x="1" y="1" width="294" height="174" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="1" y="24" width="5" height="128" rx="2.5" fill="#00897b"/>
+<text x="30" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#00897b">~5 yrs</text>
+<text x="30" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#0f172a">Enterprise BI at TCS</text>
+<text x="30" y="148" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#57606a">Aug 2021 – Aug 2026</text>
+<rect x="329" y="1" width="294" height="174" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="329" y="24" width="5" height="128" rx="2.5" fill="#0969da"/>
+<text x="358" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#0969da">6+</text>
+<text x="358" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#0f172a">QlikView → Power BI</text>
+<text x="358" y="148" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#57606a">application migrations</text>
+<rect x="657" y="1" width="294" height="174" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="657" y="24" width="5" height="128" rx="2.5" fill="#7c3aed"/>
+<text x="686" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#7c3aed">3</text>
+<text x="686" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#0f172a">Global enterprise clients</text>
+<text x="686" y="148" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#57606a">Stellantis · Samsung · Bosch</text>
+<rect x="985" y="1" width="294" height="174" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+<rect x="985" y="24" width="5" height="128" rx="2.5" fill="#d9480f"/>
+<text x="1014" y="82" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="54" font-weight="700" fill="#d9480f">330+</text>
+<text x="1014" y="120" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="19" font-weight="600" fill="#0f172a">GRE score</text>
+<text x="1014" y="148" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#57606a">Graduate admissions test</text>
+</svg>
