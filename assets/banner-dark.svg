@@ -2,7 +2,7 @@
   <rect x="1" y="1" width="1278" height="198" rx="16" fill="#0d1117" stroke="#2a3441" stroke-width="2"/>
   <rect x="1" y="1" width="14" height="198" rx="7" fill="#f2808c"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="64" y="92" font-size="44" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Dashboards · Data models · Reporting automation</text>
+    <text x="64" y="92" font-size="40" font-weight="700" fill="#e6edf3" letter-spacing="-0.5">Dashboards · Data models · Reporting automation</text>
     <text x="64" y="142" font-size="26" font-weight="600" fill="#f2808c">Power BI · SQL · Snowflake · Python</text>
   </g>
 </svg>
